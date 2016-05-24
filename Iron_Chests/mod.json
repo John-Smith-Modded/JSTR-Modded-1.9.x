@@ -1,0 +1,10 @@
+{
+  "mod_id": "IronChest",
+  "mod_name": "Iron Chests",
+  "mod_dir": "/Iron_Chests/",
+  "mod_version": "v6.0.140.781",
+  "mc_version": "1.9.4",
+  "mod_authors": ["cpw","progwml6"],
+  "url_website": "http://minecraft.curseforge.com/projects/iron-chests",
+  "description": "New chests with larger sizes, with in-place upgrade items."
+}
