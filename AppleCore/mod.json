@@ -1,0 +1,10 @@
+{
+  "mod_id": "AppleCore",
+  "mod_name": "AppleCore",
+  "mod_dir": "/AppleCore/",
+  "mod_version": "1.3.9",
+  "mc_version": "1.9.4",
+  "mod_authors": ["squeek"],
+  "url_website": "",
+  "description": "An API for modifying the food and hunger mechanics of Minecraft"
+}
